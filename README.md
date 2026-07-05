@@ -6,7 +6,7 @@ Agregador de promoções do **Mercado Livre** e **Shopee** para Android.
 
 ## Download do APK
 
-[**Baixar BuscaPromoções.apk →**](https://github.com/Dev-JeffersonMF/buscapromocoes/releases/latest)
+[**📥 Baixar BuscaPromoções APK**](https://github.com/Dev-JeffersonMF/buscapromocoes/releases/latest)
 
 ---
 
@@ -14,58 +14,36 @@ Agregador de promoções do **Mercado Livre** e **Shopee** para Android.
 
 ### 1. Ativar Fontes Desconhecidas
 
-O app ainda está em análise pelo Google Play. Por isso é necessário permitir a instalação manual.
-
 **Android 8 ou superior:**
-1. Abra **Configurações** → **Aplicativos** (ou **Apps**)
-2. Toque nos três pontos no canto superior → **Acesso especial de aplicativos**
-3. Selecione **Instalar apps desconhecidos**
-4. Escolha o app que usará para instalar (ex.: Chrome, Gerenciador de Arquivos)
-5. Ative **Permitir desta fonte**
+1. Abra **Configurações** → **Aplicativos** → **Acesso especial de aplicativos**
+2. Selecione **Instalar apps desconhecidos**
+3. Escolha o app que usará para instalar (Chrome, Gerenciador de Arquivos)
+4. Ative **Permitir desta fonte**
 
 **Android 7 ou inferior:**
 1. Abra **Configurações** → **Segurança**
 2. Ative **Fontes desconhecidas**
 
----
-
 ### 2. Pausar o Google Play Protect (temporariamente)
 
-O Play Protect pode bloquear apps externos por precaução. Para instalar:
-
 1. Abra o **Google Play Store**
-2. Toque no seu **avatar** (canto superior direito)
-3. Selecione **Play Protect**
-4. Toque no ícone de **configurações** (engrenagem) no canto superior direito
-5. Desative **Verificar apps com o Play Protect**
-6. Confirme tocando em **Desativar**
+2. Toque no **avatar** → **Play Protect**
+3. Toque no **ícone de engrenagem** → Desative **Verificar apps com o Play Protect**
+4. Após instalar, **reative** a verificação
 
-> Após a instalação, **reative o Play Protect** seguindo os mesmos passos.
-
----
-
-### 3. Baixar e Instalar o APK
+### 3. Baixar e Instalar
 
 1. Acesse [Releases](https://github.com/Dev-JeffersonMF/buscapromocoes/releases/latest)
-2. Baixe o arquivo `BuscaPromocoes.apk`
-3. Abra o arquivo baixado (notificação ou pasta Downloads)
-4. Toque em **Instalar**
-5. Aguarde a instalação concluir
-6. Toque em **Abrir**
-
----
-
-### 4. Reativar o Play Protect
-
-Após instalar o app com sucesso:
-1. Volte ao **Google Play Store** → **Play Protect**
-2. Reative a verificação para manter seu celular protegido
+2. Baixe o arquivo APK mais recente
+3. Abra o arquivo baixado
+4. Toque em **Instalar** → **Abrir**
 
 ---
 
 ## Atualizações
 
-O app verifica atualizações automaticamente. Quando uma nova versão estiver disponível, você receberá uma notificação dentro do próprio app com o link para baixar o novo APK.
+- **OTA (Over-the-Air):** usuários com o app instalado recebem correções automaticamente ao reabrir o app
+- **APK novo:** quando uma versão major é lançada, baixe o novo APK na página de Releases
 
 ---
 
