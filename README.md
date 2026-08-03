@@ -10,6 +10,24 @@ Agregador de promoções do **Mercado Livre** e **Shopee** para Android.
 
 ---
 
+
+# Busca Promoções App
+
+## 🚀 Release v1.03 (Atualização Opcional)
+
+Lançamento da versão 1.03 com melhorias estruturais no código e otimizações.
+Esta versão foi enviada para aprovação na Google Play Store, mas já está disponível para download direto.
+
+### ✨ O que há de novo:
+* Refatoração e melhoria da qualidade do código.
+* Adição de sistema de notificação de atualização in-app (opcional).
+* Preparação da infraestrutura para a versão da loja oficial.
+
+### 📦 Como instalar:
+1. Baixe o arquivo `app-release.apk` nos assets abaixo.
+2. Se solicitado, permita a instalação de "Fontes Desconhecidas" nas configurações do seu aparelho.
+3. Instale normalmente por cima da versão 1.02.
+
 ## Como Instalar
 
 ### 1. Ativar Fontes Desconhecidas
