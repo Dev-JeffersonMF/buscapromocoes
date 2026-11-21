@@ -53,7 +53,7 @@ O **BuscaPromoções** reúne centenas de promoções do **Mercado Livre** em um
 - 🔒 **Novo:** `AndroidManifest` com `<queries>` para detectar corretamente o app do Mercado Livre no Android 11+
 - 🏷️ **Novo:** **24 categorias oficiais do Mercado Livre** (academia, eletrônicos, celulares, saúde/farmácia, games, casa, moda, pet, ferramentas...)
 - ⏰ **Novo:** **alerta visual de promoção** com contagem regressiva; quando o prazo acaba, o app mostra o **preço real** automaticamente
-- 🃏 **Novo:** ilustrações originais de cartas na categoria ⚡ Pokémon
+- 🃏 **Novo:** imagem real das cartas na categoria ⚡ Pokémon
 - 🏋️ **Novo:** produtos de academia, suplementos, eletrônicos e saúde adicionados ao catálogo
 
 ### ✅ v1.3.0 — release atual
