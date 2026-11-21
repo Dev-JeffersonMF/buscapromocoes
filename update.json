@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.4.0",
-  "latest_version_code": 4,
+  "latest_version_name": "1.5.2",
+  "latest_version_code": 7,
   "min_required_version_code": 2,
-  "is_update_optional": false,
-  "download_url": "https://github.com/Dev-JeffersonMF/buscapromocoes/releases/download/v1.4.0/buscapromocoes-v1.4.0.apk",
-  "release_notes": "v1.4.0 — Catálogo 100% afiliado (696 produtos):\n- Correção do modal que travava a tela\n- Carrinho e compra sequencial no app da loja\n- Modo autônomo: funciona sem Firebase/internet\n- Cadastro de produtos no aparelho e recuperação de senha\n- 50 ofertas em destaque (Mais vendidos / Ganho extra)\n- Remoção da Shopee e de produtos sem afiliado"
+  "is_update_optional": true,
+  "download_url": "https://github.com/Dev-JeffersonMF/buscapromocoes/releases/download/v1.5.2/buscapromocoes-v1.5.2.apk",
+  "release_notes": "v1.5.2 — paleta única dourado/ciano/escuro em todo o app e transição de tema suave."
 }
