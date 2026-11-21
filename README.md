@@ -41,6 +41,8 @@ O **BuscaPromoções** reúne centenas de promoções do **Mercado Livre** em um
 - 🧭 **Novo:** compra **sequencial** — o app agrupa os itens por loja, abre um produto por vez e espera você voltar para seguir para o próximo
 - ✅ **Novo:** painel de progresso da compra com **"Concluído"**, **"Próximo"** e **"Cancelar"**
 - 📦 **Atualizado:** catálogo com **848 ofertas**, todas do **Mercado Livre**
+- 🔗 **Afiliado em 696 produtos:** links `meli.la` gerados pelo **Gerador de links** do hub com a etiqueta `jeffersonwebapk` (antes eram só 51)
+- 🏆 **50 ofertas em destaque** com selo **MAIS VENDIDO** e **GANHO EXTRA** — aparecem primeiro na vitrine e na categoria "Mais vendidos"
 - 🏷️ **Novo:** categoria ⚡ **Pokémon** (6 ofertas) e remoção da categoria ⚽ Figurinha da Copa
 - 📱 **Novo: modo autônomo** — os **848 produtos vão dentro do APK**: a vitrine funciona sem Firebase, sem internet e sem login
 - ➕ **Novo:** tela **Novo produto** — cole o link, busque o preço automaticamente, escolha a imagem e salve **no aparelho** (marcado com 📱); opcionalmente envie também ao Firebase
@@ -136,7 +138,9 @@ bookmarklets incluídos no repositório privado. O pipeline completo está em
 ```bash
 python3 scripts/login-ml-afiliado.py     # login único no ML
 python3 scripts/baixar-catalogo.py
-python3 scripts/importar-produtos.py     # lê produtos-novos.json
+python3 scripts/coletar-ofertas.py          # puxa ofertas do hub logado
+python3 scripts/gerar-links-afiliado.py     # gera meli.la para produtos sem rastreamento
+python3 scripts/importar-produtos.py        # lê produtos-novos.json
 python3 scripts/melhorar-catalogo.py
 python3 scripts/publicar-catalogo.py --dry-run
 python3 scripts/publicar-catalogo.py
