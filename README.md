@@ -9,7 +9,9 @@
 
 **Ofertas do Mercado Livre 🛒 com links de afiliado e compra organizada em uma fila.**
 
-[**📥 Baixar APK mais recente**](https://github.com/Dev-JeffersonMF/buscapromocoes/releases/latest)
+[**📥 Baixar APK v1.4.0**](https://github.com/Dev-JeffersonMF/buscapromocoes/releases/download/v1.4.0/buscapromocoes-v1.4.0.apk)
+
+[Ver todas as versões](https://github.com/Dev-JeffersonMF/buscapromocoes/releases)
 
 </div>
 
@@ -34,7 +36,7 @@ O **BuscaPromoções** reúne centenas de promoções do **Mercado Livre** em um
 
 ## ✨ Novidades
 
-### 🚧 v1.4.0 — em preparação (próximo build)
+### ✅ v1.4.0 — release atual
 
 - 🩹 **Corrigido:** o modal do produto não travava mais a tela nem desfocava o fundo; agora ele abre na frente, com fundo escurecido e fecha com **✕**, **toque fora** ou **botão voltar**
 - 🛒 **Novo:** carrinho interno com botão **➕** no card e no detalhe do produto
