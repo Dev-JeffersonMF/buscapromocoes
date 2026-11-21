@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.5.3",
-  "latest_version_code": 8,
+  "latest_version_name": "1.5.6",
+  "latest_version_code": 11,
   "min_required_version_code": 2,
   "is_update_optional": true,
-  "download_url": "https://github.com/Dev-JeffersonMF/buscapromocoes/releases/download/v1.5.3/buscapromocoes-v1.5.3.apk",
-  "release_notes": "v1.5.3 — automação opcional de compra via Acessibilidade e avisos de uso."
+  "download_url": "https://github.com/Dev-JeffersonMF/buscapromocoes/releases/download/v1.5.6/buscapromocoes-v1.5.6.apk",
+  "release_notes": "v1.5.6 — serviço de Acessibilidade com intent-filter corrigido."
 }

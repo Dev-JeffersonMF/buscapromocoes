@@ -2,9 +2,9 @@
 
 Ofertas do Mercado Livre com link de afiliado.
 
-[**📥 Baixar APK v1.5.3**](https://github.com/Dev-JeffersonMF/buscapromocoes/releases/download/v1.5.3/buscapromocoes-v1.5.3.apk)
+[**📥 Baixar APK v1.5.6**](https://github.com/Dev-JeffersonMF/buscapromocoes/releases/download/v1.5.6/buscapromocoes-v1.5.6.apk)
 
-## v1.5.3
+## v1.5.6
 
 - Novo ícone e tela de boas-vindas animada
 - Links de afiliado corrigidos: abrem o produto certo
