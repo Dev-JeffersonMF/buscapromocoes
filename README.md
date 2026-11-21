@@ -6,12 +6,11 @@ Ofertas do Mercado Livre com link de afiliado.
 
 ## v1.5.7
 
-- Novo ícone e tela de boas-vindas animada
-- Links de afiliado corrigidos: abrem o produto certo
-- Carrinho com compra sequencial e notificações
-- Catálogo com 699 produtos e 24 categorias
+- Carrinho com botão **finalizar** por produto e total somado
+- Links de afiliado abrem o produto correto
+- Boas-vindas animada com ícone próprio
+- 699 produtos em 24 categorias
 
 ---
 
 [📄 Licença](LICENCA.md) · [🆘 Suporte](https://github.com/Dev-JeffersonMF/buscapromocoes/issues)
-
