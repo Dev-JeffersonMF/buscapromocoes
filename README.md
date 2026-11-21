@@ -4,7 +4,7 @@
 
 [![Versão](https://img.shields.io/badge/versão-1.4.0-brightgreen)](https://github.com/Dev-JeffersonMF/buscapromocoes/releases)
 [![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)](https://github.com/Dev-JeffersonMF/buscapromocoes/releases)
-[![Catálogo](https://img.shields.io/badge/catálogo-696%20ofertas-orange)](https://github.com/Dev-JeffersonMF/buscapromocoes)
+[![Catálogo](https://img.shields.io/badge/catálogo-718%20ofertas-orange)](https://github.com/Dev-JeffersonMF/buscapromocoes)
 [![Licença](https://img.shields.io/badge/licença-uso%20pessoal-red)](LICENCA.md)
 
 **Ofertas do Mercado Livre 🛒 com links de afiliado e compra organizada em uma fila.**
@@ -42,15 +42,19 @@ O **BuscaPromoções** reúne centenas de promoções do **Mercado Livre** em um
 - 🛒 **Novo:** carrinho interno com botão **➕** no card e no detalhe do produto
 - 🧭 **Novo:** compra **sequencial** — o app agrupa os itens por loja, abre um produto por vez e espera você voltar para seguir para o próximo
 - ✅ **Novo:** painel de progresso da compra com **"Concluído"**, **"Próximo"** e **"Cancelar"**
-- 📦 **Atualizado:** catálogo com **696 ofertas**, todas do **Mercado Livre**
-- 🔗 **100% dos 696 produtos são afiliados:** links `meli.la` gerados pelo **Gerador de links** do hub com a etiqueta `jeffersonwebapk` (antes eram só 51)
+- 📦 **Atualizado:** catálogo com **718 ofertas**, todas do **Mercado Livre**
+- 🔗 **100% dos 718 produtos são afiliados:** links `meli.la` gerados pelo **Gerador de links** do hub com a etiqueta `jeffersonwebapk` (antes eram só 51)
 - 🏆 **50 ofertas em destaque** com selo **MAIS VENDIDO** e **GANHO EXTRA** — aparecem primeiro na vitrine e na categoria "Mais vendidos"
 - 🏷️ **Novo:** categoria ⚡ **Pokémon** (6 ofertas) e remoção da categoria ⚽ Figurinha da Copa
-- 📱 **Novo: modo autônomo** — os **696 produtos vão dentro do APK**: a vitrine funciona sem Firebase, sem internet e sem login
+- 📱 **Novo: modo autônomo** — os **718 produtos vão dentro do APK**: a vitrine funciona sem Firebase, sem internet e sem login
 - ➕ **Novo:** tela **Novo produto** — cole o link, busque o preço automaticamente, escolha a imagem e salve **no aparelho** (marcado com 📱); opcionalmente envie também ao Firebase
 - 🔑 **Novo:** **Esqueci minha senha** no painel admin (envia o link de redefinição do Firebase Authentication)
 - 📄 **Novo:** página com changelog, emojis, avisos de afiliado e licença contra pirataria
 - 🔒 **Novo:** `AndroidManifest` com `<queries>` para detectar corretamente o app do Mercado Livre no Android 11+
+- 🏷️ **Novo:** **24 categorias oficiais do Mercado Livre** (academia, eletrônicos, celulares, saúde/farmácia, games, casa, moda, pet, ferramentas...)
+- ⏰ **Novo:** **alerta visual de promoção** com contagem regressiva; quando o prazo acaba, o app mostra o **preço real** automaticamente
+- 🃏 **Novo:** ilustrações originais de cartas na categoria ⚡ Pokémon
+- 🏋️ **Novo:** produtos de academia, suplementos, eletrônicos e saúde adicionados ao catálogo
 
 ### ✅ v1.3.0 — release atual
 
@@ -87,7 +91,7 @@ O app abre **um produto por vez** no app do Mercado Livre. O fluxo é:
 
 ## 📱 Modo autônomo — funciona sem Firebase
 
-A partir da v1.4.0 o catálogo completo (**696 ofertas**) vem **embarcado no APK**.
+A partir da v1.4.0 o catálogo completo (**718 ofertas**) vem **embarcado no APK**.
 O app carrega essa lista na hora, sem depender de rede, e só tenta atualizar do
 Firebase em segundo plano. Se o Firebase estiver fora do ar, você continua vendo
 e usando todos os produtos normalmente.
@@ -126,7 +130,7 @@ EXPO_PUBLIC_AFILIADO_ML_ID=SEU_ID
 ## 🏆 Catálogo e "mais vendidos"
 
 O catálogo é servido pelo **Firebase Realtime Database** (`/catalogo`) e hoje conta com
-**696 ofertas** (todas do 🛒 Mercado Livre), organizadas por categoria.
+**718 ofertas** (todas do 🛒 Mercado Livre), organizadas por categoria.
 
 Para escolher os produtos que mais vendem, a fonte oficial é o **hub de afiliados**:
 
