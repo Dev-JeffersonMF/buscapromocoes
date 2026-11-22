@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.5.10",
-  "latest_version_code": 15,
+  "latest_version_name": "1.5.12",
+  "latest_version_code": 17,
   "min_required_version_code": 2,
   "is_update_optional": true,
-  "download_url": "https://github.com/Dev-JeffersonMF/buscapromocoes/releases/download/v1.5.10/buscapromocoes-v1.5.10.apk",
-  "release_notes": "v1.5.10 — vitrine volta ao topo ao trocar de aba e categorias reorganizadas."
+  "download_url": "https://github.com/Dev-JeffersonMF/buscapromocoes/releases/download/v1.5.12/buscapromocoes-v1.5.12.apk",
+  "release_notes": "v1.5.12 — todos os 820 preços atualizados com o Mercado Livre."
 }

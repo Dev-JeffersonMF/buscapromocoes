@@ -2,9 +2,9 @@
 
 Ofertas do Mercado Livre com link de afiliado.
 
-[**📥 Baixar APK v1.5.10**](https://github.com/Dev-JeffersonMF/buscapromocoes/releases/download/v1.5.10/buscapromocoes-v1.5.10.apk)
+[**📥 Baixar APK v1.5.12**](https://github.com/Dev-JeffersonMF/buscapromocoes/releases/download/v1.5.12/buscapromocoes-v1.5.12.apk)
 
-## v1.5.10
+## v1.5.12
 
 - 820 produtos com categorias organizadas e nova categoria Perfumes
 - Preços corrigidos: original riscado em cima, promocional embaixo
