@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.5.7",
-  "latest_version_code": 12,
+  "latest_version_name": "1.5.8",
+  "latest_version_code": 13,
   "min_required_version_code": 2,
   "is_update_optional": true,
-  "download_url": "https://github.com/Dev-JeffersonMF/buscapromocoes/releases/download/v1.5.7/buscapromocoes-v1.5.7.apk",
-  "release_notes": "v1.5.7 — acessibilidade removida; carrinho com botão finalizar por produto e total somado."
+  "download_url": "https://github.com/Dev-JeffersonMF/buscapromocoes/releases/download/v1.5.8/buscapromocoes-v1.5.8.apk",
+  "release_notes": "v1.5.8 — catálogo com 820 produtos, preços corrigidos, categorias organizadas e nova categoria Perfumes."
 }
